@@ -2,6 +2,25 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "onCINEMA",
+    "thumb": "oncinema/thumb.png",
+    "desc": "Show latest and popular movies.",
+    "url": "http://oncinema.herokuapp.com",
+    "submitter": "pquarme",
+    "submissionDate": "2014-08-7",
+    "tags": [
+      "movie",
+      "themoviedbapi",
+      "api",
+      "boostrap",
+      "jquery",
+      "animation",
+      "play framework",
+      "backend",
+      "heroku"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
